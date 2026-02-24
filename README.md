@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Dhanasekar
 **A passionate Data Scientist || Data Analyst || AIML Engineer|| DhanaSekar Admin from India**
 
-Email Me 👉 ✉️ **dhanush.business01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dhanasekar.scientist@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Carbon emission Prediction
 - 🌱 **I’m currently learning:** Data Science | Data Analysis
